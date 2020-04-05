@@ -1,5 +1,5 @@
 # hello
 
-<b>this will be bold<b/>
+<b>this will be bold</b>
 
 this will not
