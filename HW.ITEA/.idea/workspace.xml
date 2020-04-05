@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1318013-63fb-4218-8cae-0b96c563aa7a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="G3PluginsProjectSettings">
+    <appliedSettings>
+      <entry key="LinkifyInternalShortlinks" value="true" />
+      <entry key="RecognizedNullableAnnotations" value="true" />
+    </appliedSettings>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZvSCVf9N2mJVgt1lG4g5gWpHDs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.task3 (1)">
+    <configuration name="task1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw2.task1" />
+      <module name="HW.ITEA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw2.task2" />
+      <module name="HW.ITEA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw2.task3" />
+      <module name="HW.ITEA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw1.task4" />
+      <module name="HW.ITEA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw1.task5" />
+      <module name="HW.ITEA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.task3 (1)" />
+        <item itemvalue="Application.task2" />
+        <item itemvalue="Application.task1 (1)" />
+        <item itemvalue="Application.task5" />
+        <item itemvalue="Application.task4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1318013-63fb-4218-8cae-0b96c563aa7a" name="Default Changelist" comment="" />
+      <created>1585717946526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585717946526</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1782" y="269" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585720061085">
+      <screen x="1440" y="23" width="1920" height="965" />
+    </state>
+    <state x="1782" y="269" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/1440.23.1920.965@1440.23.1920.965" timestamp="1585720061084" />
+    <state width="1358" height="231" key="GridCell.Tab.0.bottom" timestamp="1585729319042">
+      <screen x="1440" y="23" width="1920" height="965" />
+    </state>
+    <state width="1358" height="231" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1920.965@1440.23.1920.965" timestamp="1585729319042" />
+    <state width="1358" height="231" key="GridCell.Tab.0.center" timestamp="1585729319041">
+      <screen x="1440" y="23" width="1920" height="965" />
+    </state>
+    <state width="1358" height="231" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1920.965@1440.23.1920.965" timestamp="1585729319041" />
+    <state width="1358" height="231" key="GridCell.Tab.0.left" timestamp="1585729319041">
+      <screen x="1440" y="23" width="1920" height="965" />
+    </state>
+    <state width="1358" height="231" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1920.965@1440.23.1920.965" timestamp="1585729319041" />
+    <state width="1358" height="231" key="GridCell.Tab.0.right" timestamp="1585729319042">
+      <screen x="1440" y="23" width="1920" height="965" />
+    </state>
+    <state width="1358" height="231" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.1920.965@1440.23.1920.965" timestamp="1585729319042" />
+    <state x="1879" y="277" key="IDE.errors.dialog" timestamp="1585717970228">
+      <screen x="1440" y="23" width="1920" height="965" />
+    </state>
+    <state x="1879" y="277" key="IDE.errors.dialog/0.23.1440.877/1440.23.1920.965@1440.23.1920.965" timestamp="1585717970228" />
+    <state x="1800" y="166" key="SettingsEditor" timestamp="1585718118956">
+      <screen x="1440" y="23" width="1920" height="965" />
+    </state>
+    <state x="1800" y="166" key="SettingsEditor/0.23.1440.877/1440.23.1920.965@1440.23.1920.965" timestamp="1585718118956" />
+    <state x="0" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1585729709128">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state x="0" y="240" key="com.intellij.ide.util.TipDialog/0.23.1440.788/1440.23.1920.1057@0.23.1440.788" timestamp="1585729709128" />
+    <state x="1983" y="284" key="run.anything.popup" timestamp="1585720065530">
+      <screen x="1440" y="23" width="1920" height="965" />
+    </state>
+    <state x="1983" y="284" key="run.anything.popup/0.23.1440.877/1440.23.1920.965@1440.23.1920.965" timestamp="1585720065530" />
+  </component>
+</project>
