@@ -16,3 +16,23 @@ int a;
 a =s1.nextInt();
 System.out.println(a);
 ```
+# hello
+```java
+String ret="";
+
+if (number == 0) {
+    ret = "zero";
+    return ret;
+}
+
+if (number < 0) {
+    ret= "-";
+}
+
+if (number > 0) {
+    ret= "+";
+}
+
+return ret;
+}
+```
