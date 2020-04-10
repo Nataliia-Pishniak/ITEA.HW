@@ -5,7 +5,6 @@ public class task2 {
 
     public static void main(String[] args) {
 
-        //- кількість елементів, більших 1
 
         //Заповніть масив випадковими числами та знайдіть:
 
